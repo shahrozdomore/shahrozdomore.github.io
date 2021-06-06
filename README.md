@@ -2,7 +2,7 @@
 
 <did style="text-align: center">
   <h1 style="color: red">Pixel Perfect work<br> 
-    <span style="color: yellow">highly appreciated</span> <br>  
+    <span style="color: green">highly appreciated</span> <br>  
     <span style="color: green">by the respected clients.</span>
   </h1>
  </div>
